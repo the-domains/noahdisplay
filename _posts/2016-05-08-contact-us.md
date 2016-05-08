@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Please contact us for a full range display solution:'
-datePublished: '2016-05-08T12:36:55.735Z'
-dateModified: '2016-05-08T12:36:45.809Z'
+datePublished: '2016-05-08T12:41:48.316Z'
+dateModified: '2016-05-08T12:41:17.882Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-contact-us.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-contact-us.md
 url: contact-us/index.html
-_type: Article
+_type: WebPage
 
 ---
 Please contact us for a full range display solution:
