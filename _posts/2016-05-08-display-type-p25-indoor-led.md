@@ -1,16 +1,18 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'Display Type: P2.5 indoor LED'
-datePublished: '2016-05-08T13:24:08.612Z'
-dateModified: '2016-05-08T13:23:30.093Z'
+description: 'Client: '
+datePublished: '2016-05-08T13:26:15.626Z'
+dateModified: '2016-05-08T13:25:03.434Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-08-display-type-p25-indoor-led.md
 authors: []
 publisher:
   name: null
@@ -18,9 +20,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-display-type-p25-indoor-led.md
-url: display-type-p25-indoor-led/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df37645-4140-49a9-92ee-bffca9ef085c.jpg)
