@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Client: International renowned insurance company'
-datePublished: '2016-05-08T13:58:33.442Z'
-dateModified: '2016-05-08T13:57:44.866Z'
+datePublished: '2016-05-08T14:01:21.580Z'
+dateModified: '2016-05-08T14:01:16.686Z'
 title: ''
 author:
   - name: ''
@@ -20,9 +20,10 @@ publisher:
   favicon: null
 starred: false
 url: project-2015/index.html
-_type: WebPage
+_type: Article
 
 ---
+# Project 2015
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df37645-4140-49a9-92ee-bffca9ef085c.jpg)
 
 Client: International renowned insurance company
