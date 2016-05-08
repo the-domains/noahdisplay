@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Client: International renowned insurance company'
-datePublished: '2016-05-08T14:10:06.898Z'
-dateModified: '2016-05-08T14:09:21.297Z'
+datePublished: '2016-05-08T14:12:15.099Z'
+dateModified: '2016-05-08T14:11:37.558Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   favicon: null
 starred: false
 url: project-2015/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Project 2015
