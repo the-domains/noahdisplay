@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Client: '
-datePublished: '2016-05-08T13:26:15.626Z'
-dateModified: '2016-05-08T13:25:03.434Z'
+datePublished: '2016-05-08T13:55:18.070Z'
+dateModified: '2016-05-08T13:26:18.955Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +19,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: project-2015/index.html
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7df37645-4140-49a9-92ee-bffca9ef085c.jpg)
